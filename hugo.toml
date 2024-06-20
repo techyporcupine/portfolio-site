@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "localhost"
 title = "/home/techyporcupine"
 theme = "hugo-coder"
 languagecode = "en"
@@ -14,18 +14,18 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
+  author = "techyporcupine"
+  info = "A highschooler who has too much time"
   description = "John Doe's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/pfp.png"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2024
 
   enableTwemoji = true
 
@@ -47,7 +47,7 @@ style = "github-dark"
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/techyporcupine/"
 [[params.social]]
   name = "Gitlab"
   icon = "fa-brands fa-gitlab fa-2x"
