@@ -6,10 +6,6 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
-[services]
-[services.disqus]
-disqusShortname = "yourdiscussshortname"
-
 [markup.highlight]
 style = "github-dark"
 
@@ -17,13 +13,11 @@ style = "github-dark"
   author = "techyporcupine"
   info = "A highschooler who has too much time"
   description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
+  keywords = "blog,developer,personal,networking"
   avatarurl = "images/pfp.png"
-  #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  favicon_32 = "images/favicons/pfp32.png"
+  favicon_16 = "images/favicons/pfp16.png"
 
   since = 2024
 
@@ -31,10 +25,6 @@ style = "github-dark"
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
-
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
 
 [taxonomies]
   category = "categories"
@@ -48,16 +38,6 @@ style = "github-dark"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/techyporcupine/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa-brands fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa-brands fa-x-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/johndoe/"
 
 # Menu links
 [[menu.main]]
