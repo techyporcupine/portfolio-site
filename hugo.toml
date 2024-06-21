@@ -29,6 +29,10 @@ style = "github-dark"
 [params.meta]
   favicon = true
 
+[params.plausibleAnalytics]
+  domain = "cb-tech.me"
+  serverURL = "analytics.cb-tech.me" # (optional) Replace if you use a custom domain
+
 [taxonomies]
   category = "categories"
   series = "series"
