@@ -11,8 +11,8 @@ style = "github-dark"
 
 [params]
   author = "techyporcupine"
-  info = "A highschooler who has too much time"
-  description = "John Doe's personal website"
+  info = "A highschooler who has too much time and not enough projects"
+  description = "Caleb's personal website"
   keywords = "blog,developer,personal,networking"
   avatarurl = "images/pfp.png"
 
@@ -41,10 +41,14 @@ style = "github-dark"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "~/equipment"
   weight = 1
-  url  = "posts/"
+  url  = "equipment/"
 [[menu.main]]
-  name = "About"
+  name = "~/projects"
   weight = 2
+  url = "projects/"
+[[menu.main]]
+  name = "~/about"
+  weight = 3
   url = "about/"

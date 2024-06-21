@@ -6,6 +6,28 @@
     <description>Recent content on /home/techyporcupine</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 21 Jun 2024 18:56:23 +0930</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Fri, 21 Jun 2024 18:56:23 +0930</pubDate>
+      <guid>//localhost:1313/projects/</guid>
+      <description>I don&amp;rsquo;t really put my open source projects on this site, but what I do is post them in my Hack Club scrapbook, which you can access here. There may also me some interesting things over on my Github!</description>
+    </item>
+    <item>
+      <title>About me!</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 20 Jun 2024 18:56:23 +0930</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Hi, my name is Caleb, also known as techyporcupine! I am a HS student who enjoys spending my time playing with technology.&#xA;I enjoy many aspects of messing around with tech and having fun. Specifically, some categories that I particularly enjoy are network engineering (thanks for making it not too expensive, Ubiquiti!) and enjoying messing around with Linux (specifically NixOS)!&#xA;I&amp;rsquo;m open to tips on how to improve this site whenever, you can contact me via the email on my Github profile!</description>
+    </item>
+    <item>
+      <title>Equipment</title>
+      <link>//localhost:1313/equipment/</link>
+      <pubDate>Thu, 20 Jun 2024 18:56:23 +0930</pubDate>
+      <guid>//localhost:1313/equipment/</guid>
+      <description>My equipment is nothing special, but it&amp;rsquo;s mine!&#xA;Traditional Hardware: Link to heading Laptop (daily driver): Dell Latitude E7450 (i7-5600U, NVIDIA GT 840M1 and Intel HD 5500, 16GB DDR3L, NixOS) [circa 2015]&#xA;Desktop: Asus B150M-C Motherboard (i7-6700, NVIDIA GTX1650, 24GB DDR4, Windows 11 soon to be NixOS) [circa 2016]&#xA;Homelab server: Dell Optiplex (i5-6500, NVIDIA Quadro M2000, 12GB DDR4, NixOS) [circa 2016]&#xA;Phone: Google Pixel 6a (Stock Pixel Android, maybe GrapheneOS soon?</description>
+    </item>
   </channel>
 </rss>
