@@ -33,6 +33,34 @@ style = "github-dark"
   domain = "cb-tech.me"
   serverURL = "analytics.cb-tech.me" # (optional) Replace if you use a custom domain
 
+[params.csp]
+  childsrc = ["'self'"]
+  fontsrc = [
+    "'self'",
+    "https://fonts.gstatic.com",
+    "https://cdn.jsdelivr.net/"
+  ]
+  formaction = ["'self'"]
+  framesrc = ["'self'"]
+  imgsrc = ["'self'"]
+  objectsrc = ["'none'"]
+  stylesrc = [
+    "'self'",
+    "'unsafe-inline'",
+    "https://fonts.googleapis.com/",
+    "https://cdn.jsdelivr.net/"
+  ]
+  connectsrc = [
+    "'self'",
+    "https://plausible.example.com",
+  ]
+  scriptsrc = [
+    "'self'",
+    "'unsafe-inline'",
+    "https://plausible.example.com",
+  ]
+
+
 [taxonomies]
   category = "categories"
   series = "series"
