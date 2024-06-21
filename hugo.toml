@@ -52,12 +52,12 @@ style = "github-dark"
   ]
   connectsrc = [
     "'self'",
-    "https://plausible.example.com",
+    "https://analytics.cb-tech.me",
   ]
   scriptsrc = [
     "'self'",
     "'unsafe-inline'",
-    "https://plausible.example.com",
+    "https://analytics.cb-tech.me",
   ]
 
 
