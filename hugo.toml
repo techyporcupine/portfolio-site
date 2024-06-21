@@ -14,7 +14,7 @@ style = "github-dark"
   info = "A highschooler who has too much time and not enough projects"
   description = "Caleb's personal website"
   keywords = "blog,developer,personal,networking"
-  avatarurl = "images/pfp.png"
+  avatarurl = "images/freshpfp.webp"
 
   favicon_32 = "favicon-32x32.png"
   favicon_16 = "favicon-16x16.png"
