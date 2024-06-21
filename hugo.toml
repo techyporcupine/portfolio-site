@@ -16,8 +16,8 @@ style = "github-dark"
   keywords = "blog,developer,personal,networking"
   avatarurl = "images/pfp.png"
 
-  favicon_32 = "images/favicon-32x32.png"
-  favicon_16 = "images/favicon-16x16.png"
+  favicon_32 = "favicon-32x32.png"
+  favicon_16 = "favicon-16x16.png"
 
   since = 2024
 
