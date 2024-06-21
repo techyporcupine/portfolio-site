@@ -16,8 +16,8 @@ style = "github-dark"
   keywords = "blog,developer,personal,networking"
   avatarurl = "images/pfp.png"
 
-  favicon_32 = "images/favicons/pfp32.png"
-  favicon_16 = "images/favicons/pfp16.png"
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16x16.png"
 
   since = 2024
 
@@ -25,6 +25,9 @@ style = "github-dark"
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
+
+[params.meta]
+  favicon = true
 
 [taxonomies]
   category = "categories"
