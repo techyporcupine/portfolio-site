@@ -31,7 +31,7 @@ style = "github-dark"
 
 [params.plausibleAnalytics]
   domain = "cb-tech.me"
-  serverURL = "analytics.cb-tech.me" # (optional) Replace if you use a custom domain
+  serverURL = "plaus.cb-tech.me" # (optional) Replace if you use a custom domain
 
 [taxonomies]
   category = "categories"
