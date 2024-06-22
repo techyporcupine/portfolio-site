@@ -1,4 +1,4 @@
-baseurl = "localhost"
+baseurl = "cb-tech.me"
 title = "/home/techyporcupine"
 theme = "hugo-coder"
 languagecode = "en"
