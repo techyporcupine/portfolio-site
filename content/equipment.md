@@ -1,6 +1,6 @@
 ---
 title: "Equipment"
-date: 2024-06-20T18:56:23+09:30
+date: 2024-10-8T17:38:23+09:30
 draft: false
 toc: false
 images:
@@ -9,7 +9,7 @@ My equipment is nothing special, but it's mine!
 
 ## Traditional Hardware:
 
-Laptop (daily driver): Dell Latitude E7450 (i7-5600U, NVIDIA GT 840M[^1] and Intel HD 5500, 16GB DDR3L, NixOS) [circa 2015] 
+Laptop (daily driver): Framework 13 (DIY AMD Edition) (Ryzen 5 7640U, Radeon 760M, 16GB DDR5, NixOS) [circa 2024] 
 
 Desktop: Asus B150M-C Motherboard (i7-6700, NVIDIA GTX1650, 24GB DDR4, Windows 11 soon to be NixOS) [circa 2016]
 
@@ -31,10 +31,8 @@ Soldering Iron: Pinecil V2 (stock tip and BC2)
 
 Main OS: NixOS running on both my laptop and server, my laptop config is linked [here!](https://github.com/techyporcupine/nixos-config)
 
-Desktop Enviroment/Windowing Manager: [Hyprland](https://hyprland.org/), my config is written in Nix and also in my NixOS config repo!
+Desktop Enviroment/Windowing Manager: Sway, my config is written in Nix and also in my NixOS config repo!
 
 Browser: Firefox, occasionally Chromium
 
 Editor: VSCodium
-
-[^1]: *I'm pretty sure it is failing*
