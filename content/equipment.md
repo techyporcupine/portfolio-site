@@ -23,7 +23,7 @@ Passkey: 1 Yubikey 5C NFC, 1 Yubikey 5 NFC [circa 2022]
 
 3D Printer(s): 
 - Ender 3 Pro (heavily modified; SKR Mini E3 V3, Klipper, Direct Drive) [circa 2019]
-- Makerbot Replicator (original; currently being worked on as it needs a couple fixes. If anyone wants to donate some 40x40x10mm 24V fans I'd gladly take them!) [circa 2012]
+- Makerbot Replicator (original; new fans and added cooling fans) [circa 2012]
 
 Soldering Iron: Pinecil V2 (stock tip and BC2)
 
