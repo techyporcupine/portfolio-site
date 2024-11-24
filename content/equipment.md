@@ -11,9 +11,9 @@ My equipment is nothing special, but it's mine!
 
 Laptop (daily driver): Framework 13 (DIY AMD Edition) (Ryzen 5 7640U, Radeon 760M, 16GB DDR5, NixOS) [circa 2024] 
 
-Desktop: Asus B150M-C Motherboard (i7-6700, NVIDIA GTX1650, 24GB DDR4, Windows 11 soon to be NixOS) [circa 2016]
+Homelab server: Dell Optiplex (i7-6700, 24GB DDR4, 128GB Boot SSD, 1.8TB Intel SSD array, Proxmox VE) [circa *too many years*]
+* Runs: Router (OPNsense), Home Server (NixOS) 
 
-Homelab server: Dell Optiplex (i5-6500, NVIDIA Quadro M2000, 12GB DDR4, NixOS) [circa 2016]
 
 Phone: Google Pixel 6a (Stock Pixel Android, maybe GrapheneOS soon?) [circa 2022]
 
