@@ -12,4 +12,4 @@ I enjoy many aspects of messing around with tech and having fun. Specifically, s
 I'm open to tips on how to improve this site whenever, you can contact me via the email on my Github profile!
 
 (Almost) all of my publicly exposed sites are dual-stacked with IPv6 thanks to Hurricane Electric or Cloudflare, as my ISP does not support IPv6, and I even have a cert to show it!
-<img src="//ipv6.he.net/certification/create_badge.php?pass_name=techyporcupine&amp;badge=2" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for techyporcupine"></img>
+![techyporcupine Sage HE badge](https://ipv6.he.net/certification/create_badge.php?pass_name=techyporcupine&badge=2)
