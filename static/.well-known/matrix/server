@@ -1,1 +1,3 @@
-{"m.server":"matrix.cb-tech.me:443"}
+{
+    "m.server": "matrix.cb-tech.me:443"
+}
