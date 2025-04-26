@@ -14,8 +14,16 @@ Laptop (daily driver): Framework 13 (DIY AMD Edition) (Ryzen 5 7640U, Radeon 760
 Homelab server: Dell Optiplex (i7-6700, 24GB DDR4, 128GB Boot SSD, 1.8TB Intel SSD array, Proxmox VE) [circa *too many years*]
 * Runs: Router (OPNsense), Home Server (NixOS) 
 
-
 Phone: Google Pixel 6a (Stock Pixel Android, maybe GrapheneOS soon?) [circa 2022]
+
+### Photography:
+
+Camera: Sony α6000
+
+Lenses:
+* Sony E 55-210mm F4.5-6.3 OSS
+* Tamron 24mm f/2.8 Di III OSD M1:2
+* Canon FD 50mm F1.8 S.C. (Used with 3D Printed Adapter)
 
 ## Gadgets:
 
