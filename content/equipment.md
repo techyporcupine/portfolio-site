@@ -14,7 +14,7 @@ Laptop (daily driver): Framework 13 (DIY AMD Edition) (Ryzen 5 7640U, Radeon 760
 Homelab server: Dell Optiplex (i7-6700, 32GB DDR4, 128GB Boot SSD, 1.8TB Intel SSD array, Proxmox VE) [circa *too many years*]
 * Runs: Router (OPNsense), Home Server (NixOS) 
 
-Phone: Google Pixel 6a (Stock Pixel Android, maybe GrapheneOS soon?) [circa 2022]
+Phone: Google Pixel 9a (Stock Pixel Android) [circa 2025]
 
 ### Photography:
 
