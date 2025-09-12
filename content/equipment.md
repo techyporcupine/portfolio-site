@@ -11,8 +11,10 @@ My equipment is nothing special, but it's mine!
 
 Laptop (daily driver): Framework 13 (DIY AMD Edition) (Ryzen 5 7640U, Radeon 760M, 16GB DDR5, NixOS) [circa 2024] 
 
-Homelab server: Dell Optiplex (i7-6700, 32GB DDR4, 128GB Boot SSD, 1.8TB Intel SSD array, Proxmox VE) [circa *too many years*]
-* Runs: Router (OPNsense), Home Server (NixOS) 
+Homelab server: Custom built (i7-6700, 32GB DDR4, 128GB Boot SSD, 1.8TB Intel SSD array, Proxmox VE) [circa *too many years*]
+* Runs: Router (OPNsense), Home Server (NixOS)
+
+GPU server: Custom built (i5-7500, Nvidia RTX 3080 Ti, Nvidia GTX 1650, 8GB DDR4, 240GB Boot SSD, NixOS) [circa *too many years*]
 
 Phone: Google Pixel 9a (Stock Pixel Android) [circa 2025]
 
@@ -38,7 +40,7 @@ Soldering Iron: Pinecil V2 (stock tip and BC2)
 
 ## Software:
 
-Main OS: NixOS running on both my laptop and server, my laptop config is linked [here!](https://github.com/techyporcupine/nixos-config)
+Main OS: NixOS running on both my laptop and server, my config is linked [here!](https://github.com/techyporcupine/nixos-config)
 
 Desktop Enviroment/Windowing Manager: Sway, my config is written in Nix and also in my NixOS config repo!
 
