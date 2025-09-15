@@ -1,6 +1,6 @@
 ---
 title: "Equipment"
-date: 2024-10-8T17:38:23+09:30
+date: 2025-9-15T17:38:23+09:30
 draft: false
 toc: false
 images:

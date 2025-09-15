@@ -13,7 +13,7 @@ style = "github-dark"
   author = "techyporcupine"
   info = "hi 👋"
   description = "Caleb's personal website"
-  keywords = "blog,developer,personal,networking"
+  keywords = "blog,developer,personal,networking,it,voice"
   avatarurl = "images/freshpfp.webp"
 
   favicon_32 = "favicon-32x32.png"
@@ -51,11 +51,11 @@ style = "github-dark"
   name = "~/equipment"
   weight = 1
   url  = "equipment/"
-[[menu.main]]
-  name = "~/projects"
-  weight = 2
-  url = "projects/"
+#[[menu.main]]
+#  name = "~/projects"
+#  weight = 2
+#  url = "projects/"
 [[menu.main]]
   name = "~/about"
-  weight = 3
+  weight = 2
   url = "about/"
